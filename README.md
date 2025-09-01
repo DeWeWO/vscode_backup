@@ -8,6 +8,3 @@ VSCode uchun Extension lar!
 !
 !
 !
-!
-!
-!
