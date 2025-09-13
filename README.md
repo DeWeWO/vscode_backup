@@ -21,4 +21,3 @@ VSCode uchun Extension lar!
 
 
 #@
-##@
