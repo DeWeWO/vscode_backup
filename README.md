@@ -17,7 +17,3 @@ VSCode uchun Extension lar!
 ###
 ###
 
-
-
-
-#@
