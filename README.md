@@ -11,9 +11,3 @@ VSCode uchun Extension lar!
 
 !
 !
-
-
-
-###
-###
-
