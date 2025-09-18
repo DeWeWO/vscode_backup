@@ -4,8 +4,3 @@ VSCode uchun Extension lar!
 !
 !
 !
-!
-!
-?
-"
-"
