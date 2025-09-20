@@ -4,3 +4,5 @@ VSCode uchun Extension lar!
 !
 !
 !
+$
+%
