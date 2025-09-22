@@ -5,5 +5,3 @@ VSCode uchun Extension lar!
 !
 !
 $
-%
-^
