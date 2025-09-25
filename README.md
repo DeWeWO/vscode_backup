@@ -6,4 +6,4 @@ VSCode uchun Extension lar!
 !
 $
 *
-%%
+%
