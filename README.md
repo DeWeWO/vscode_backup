@@ -1,8 +1,1 @@
-VSCode uchun Extension lar!
-
-
-!
-!
-!
-$
-^
+### VSCode uchun Extension lar!
